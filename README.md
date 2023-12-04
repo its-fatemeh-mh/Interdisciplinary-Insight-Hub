@@ -9,7 +9,7 @@ This hub is dedicated to curating a comprehensive reading list and resources for
 
 ## Explore the Hub
 
-- [**NLP Insights**](NLP): Dive into the world of Natural Language Processing with a curated selection of papers and resources.
+- [**NLP Insights**](NLP Insights): Dive into the world of Natural Language Processing with a curated selection of papers and resources.
 - [**AR/VR Discoveries**](link-to-arvr-folder): Explore the realm of Augmented and Virtual Reality through recommended readings and insightful notes.
 - [**Human AI Interaction**](link-to-hai-folder): Gain a deeper understanding of Human-AI Interaction with thought-provoking materials and shared knowledge.
 - [**Behavioral Sciences Hub**](link-to-behavioral-sciences-folder): Explore a diverse collection of resources delving into Cognitive Science, Decision Making, Psychology, Education, and their interplay with technology.
